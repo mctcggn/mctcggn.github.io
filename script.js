@@ -13,7 +13,7 @@ const VP_PHONE        = '+91 8909673922';  // ← change this
 const VP_WA           = 'https://wa.me/918909673922'; // ← change this
 
 // ─── CLUB ADDRESS ─────────────────────────────
-const CLUB_VENUE_NAME = 'The Clay House Pre School, Basement';                   // ← change this
+const CLUB_VENUE_NAME = 'Bachpan Play School, Basement';                   // ← change this
 const CLUB_ADDRESS    = 'Sector 46, Gurugram, Haryana';                 // ← change this
 const CLUB_MAPS_URL   = 'https://goo.gl/maps/Njm6LJm79A2CMxgb6';       // ← change this
 // ─────────────────────────────────────────────
