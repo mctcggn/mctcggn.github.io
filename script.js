@@ -4,13 +4,13 @@
 
 // ─── CLUB OFFICER DETAILS ─────────────────────
 // Update these whenever office-bearers change.
-const PRESIDENT_NAME  = 'TM Shravasti';          // ← change this
-const PRESIDENT_PHONE = '+91 9985087768';  // ← change this
-const PRESIDENT_WA    = 'https://wa.me/919985087768'; // ← change this
+const PRESIDENT_NAME  = 'TM Shriya';          // ← change this
+const PRESIDENT_PHONE = '+91 8909673922';  // ← change this
+const PRESIDENT_WA    = 'https://wa.me/918909673922'; // ← change this
 
-const VP_NAME         = 'TM Shriya';          // ← change this
-const VP_PHONE        = '+91 8909673922';  // ← change this
-const VP_WA           = 'https://wa.me/918909673922'; // ← change this
+const VP_NAME         = 'TM Abhitab';          // ← change this
+const VP_PHONE        = '+91 9711984342';  // ← change this
+const VP_WA           = 'https://wa.me/919711984342'; // ← change this
 
 // ─── CLUB ADDRESS ─────────────────────────────
 const CLUB_VENUE_NAME = 'Bachpan Play School, Basement';                   // ← change this
